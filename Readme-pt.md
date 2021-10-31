@@ -22,7 +22,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 ## Experiência Profissional
 
-**Software Engineer - Javascript** - [Klarna](https://www.klarna.com/) - March 2020 - Present
+**Engenheiro de Software - Javascript** - [Klarna](https://www.klarna.com/) - March 2020 - Present
 
 > Currently working in the Hosted Payment Page, which consists in a external payment integration for in-store and e-commerce merchants, being built in React bundled with webpack. As is a payment integration it is done with unit tests using jest and react testing library, along with webdriverIO and Browserstack to have e2e testing coverage. I also work in the Klarna app building a new way to pay in-store with QR codes. It is built with React Native, Redux and Most.JS to handle the user flows and Jest and Cypress to account for testing the app. I also work in a BFF layer which is a node lambda function that interfaces the app with multiple backends.
 
