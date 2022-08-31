@@ -10,7 +10,7 @@
 
 ## Sobre mí
 
-I'm a Software Engineer who loves computer science and how we interact to every piece of technology. The way user interfaces - specially on the web - can have a huge impact in peoples lives fascinates me and makes me work to go even further to enhance their experience through beautiful design and performant implementation.
+Soy un ingeniero de software que ama la informática y cómo interactuamos con cada pieza de tecnología. La forma en que las interfaces de usuario, especialmente en la web, pueden tener un gran impacto en la vida de las personas me fascina y me hace trabajar para ir aún más lejos y mejorar su experiencia a través de un diseño atractivo y una implementación eficaz.
 
 ## Habilidades
 
