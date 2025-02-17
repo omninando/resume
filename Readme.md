@@ -14,11 +14,12 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 ## Skills
 
-- Javascript (React, TypeScript, ES2015+, Redux, AngularJS, jQuery, NodeJS, Most.JS)
+- Javascript (React, TypeScript, ES2015+, Redux, NodeJS, AngularJS, jQuery)
 - CSS (Stylus, Sass, PostCSS)
-- Tests (Jest, React testing library, Cypress, WebdriverIO, Playwright)
+- Tests (Vitest, Jest, React testing library, Playwright, Cypress, WebdriverIO, Selenium)
 - CSS Frameworks (CSS Modules, Styled Components, Tachyons)
 - Monitoring (Splunk, Sentry, Amplitude, Launchdarkly)
+- DS Management (Storybook, Docusaurus)
 - CI/CD (Github Actions, Jenkins)
 - Git
 
@@ -26,7 +27,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 **Software Engineer Frontend** - [Typeform](https://www.typeform.com/) - February 2022 - Present
 
-> Currently working in the experiments team working in new features for onboarding and guiding customers through the platform and improve the usage of forms. The features are developed in React and bundled with internal configuration of webpack. Jest, react-testing-library and cypress are used to validate and test the solutions. A backend with NodeJS/Typescript is also maintained by me and the team.
+> Currently part of the Design System Team in which I worked on the architecture, building and maintenance of the component library, token system, assets vault and documentation website for Typeform's Design System. Also worked on together with other engineers to write the contribution model for the other teams to suggest and implement features in our DS. Previously part of the experiments team working in new features for onboarding and guiding customers through the platform and improve the usage of forms. The features are developed in React and bundled with internal configuration of webpack. Jest, react-testing-library and cypress are used to validate and test the solutions. A backend with NodeJS/Typescript is also maintained by me and the team.
 
 **Software Engineer - Javascript** - [Klarna](https://www.klarna.com/) - March 2020 - February 2022
 
