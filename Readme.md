@@ -17,7 +17,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 - Javascript (React, TypeScript, ES2015+, Redux, NodeJS, AngularJS, jQuery)
 - CSS (Stylus, Sass, PostCSS)
 - Tests (Vitest, Jest, React testing library, Playwright, Cypress, WebdriverIO, Selenium)
-- CSS Frameworks (CSS Modules, Styled Components, Tachyons)
+- CSS Frameworks (CSS Modules, Styled Components, Tailwind)
 - Monitoring (Splunk, Sentry, Amplitude, Launchdarkly)
 - DS Management (Storybook, Docusaurus)
 - Monorepo Management (Turborepo)
