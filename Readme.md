@@ -1,8 +1,8 @@
 # Fernando de Almeida Coelho
 
-**Currently based:** Barcelona, Spain
+**Currently based:** Stockholm, Sweden
 
-- **Phone:** +34 690946259
+- **Phone:** +46 765960624
 - **Behance:** [behance.net/nandocoelho](https://www.behance.net/nandocoelho)
 - **LinkedIn:** [https://www.linkedin.com/in/nandocoelho/](http://linkedin.com/in/nandocoelho)
 - **E-mail:** nandoacoelho@gmail.com
@@ -16,8 +16,8 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 - Javascript (React, TypeScript, ES2015+, Redux, NodeJS, AngularJS, jQuery)
 - CSS (Stylus, Sass, PostCSS)
+- CSS Frameworks (Tailwind, StyleX, CSS Modules)
 - Tests (Vitest, Jest, React testing library, Playwright, Cypress, WebdriverIO, Selenium)
-- CSS Frameworks (CSS Modules, Styled Components, Tailwind)
 - Monitoring (Splunk, Sentry, Amplitude, Launchdarkly)
 - DS Management (Storybook, Docusaurus)
 - Monorepo Management (Turborepo)
@@ -26,9 +26,13 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 ## Experience
 
-**Senior Software Engineer Frontend** - [Typeform](https://www.typeform.com/) - February 2022 - Present
+**Design Systems Engineer** - [Legora](https://www.legora.com/) - October 2025 - Present
 
-> Currently part of the Design System Team in which I worked on the architecture, building and maintenance of the component library, token system, assets vault and documentation website for Typeform's Design System. Also worked on together with other engineers to write the contribution model for the other teams to suggest and implement features in our DS. Previously part of the experiments team working in new features for onboarding and guiding customers through the platform and improve the usage of forms. The features are developed in React and bundled with internal configuration of webpack. Jest, react-testing-library and cypress are used to validate and test the solutions. A backend with NodeJS/Typescript is also maintained by me and the team.
+I own the product UI system across web, React Native, and Office add-ins: Figma-sourced tokens and icons, component primitives, and the migration of product surfaces off legacy libraries. I built the company charts stack custom built with D3.JS. To keep that bar in every PR, I created and standardized the /better-* agent skills—better-ui for design-system fidelity, composing better-accessibility and better-animations, alongside better-writing for in-product copy—and added runtime a11y verification with a screen reader for cloud agents. I also wired the system into how the company ships: Storybook previews, native Storybook, a design-system MCP on every coding harness, and token generation from the design source of truth. In parallel I led the WCAG 2.1 AA work—keyboard, screen-reader, contrast, zoom, and reflow—across all frontend surfaces and the Word add-in so accessibility lives in the components, not as one-off product patches.
+
+**Senior Software Engineer Frontend** - [Typeform](https://www.typeform.com/) - February 2022 - September 2025
+
+> Worked as part of the Design System Team on the architecture, building and maintenance of the component library, token system, assets vault and documentation website for Typeform's Design System. Also worked on together with other engineers to write the contribution model for the other teams to suggest and implement features in our DS. Previously part of the experiments team working in new features for onboarding and guiding customers through the platform and improve the usage of forms. The features are developed in React and bundled with internal configuration of webpack. Jest, react-testing-library and cypress are used to validate and test the solutions. A backend with NodeJS/Typescript is also maintained by me and the team.
 
 **Software Engineer - Javascript** - [Klarna](https://www.klarna.com/) - March 2020 - February 2022
 
